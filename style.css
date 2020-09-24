@@ -1,0 +1,390 @@
+/*text input*/
+.scrollableContainer-2NUZem {
+    border-radius: 32px;
+}
+
+/*DM buttons... etc..*/
+.layout-2DM8Md {
+    border-radius: 32px;
+    transition: 0.1s;
+}
+.layout-2DM8Md:hover {
+    border-radius: 32px;
+    padding: 0 5px 0 5px;
+}
+.selected-aXhQR6 .layout-2DM8Md {
+    border-radius: 32px;
+    padding: 0 5px 0 5px;
+}
+
+/*server channels, etc...*/
+.content-3at_AU {
+    border-radius: 16px;
+}
+
+/*connected to vc, etc...*/
+.content-3xS9Lh {
+    border-radius: 16px;
+}
+
+/*user pop-out*/
+.userPopout-3XzG_A {
+    border-radius: 32px;
+}
+/*message in pop-out*/
+.input-cIJ7To {
+    border-radius: 32px;
+}
+
+/*user profile*/
+.input-cIJ7To {
+    border-radius: 32px;
+}
+/*connections on profile*/
+.connectedAccount-36nQx7 {
+    border-radius: 32px;
+}
+/*mutual servers profile, etc...*/
+.listRow-hutiT_ {
+    border-radius: 32px;
+}
+.root-SR8cQa {
+    border-radius: 32px;
+}
+
+/*server channel icons*/
+.icon-1_QxNX {
+    color: #7289dab0;
+}
+.modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX {
+    color: #7289da;
+}
+.icon-1tDorc {
+    color: #7289dab0;
+}
+.modeMuted-3osy7j .icon-1_QxNX, .modeMuted-3osy7j {
+    color: #7289da48;
+}
+
+
+/*send fq button, etc*/
+.button-38aScr {
+    border-radius: 32px;
+}
+
+/*right click menu*/
+.menu-3sdvDG {
+    border-radius: 22px;
+}
+/*inside menu^*/
+.item-1tOPte {
+    border-radius: 16px;
+}
+
+/*emote menu*/
+.contentWrapper-SvZHNd {
+    border-radius: 32px;
+}
+
+/*create channel pop-up, etc..*/
+.contentWrapper-SvZHNd {
+    border-radius: 32px;
+}
+/*footer*/
+.footer-2gL1pp {
+    border-radius: 0 0 32px 32px;
+}
+
+/*online players, etc..*/
+.peopleListItem-2nzedh.active-rhSpJJ, .peopleListItem-2nzedh:hover {
+    border-radius: 32px;
+}
+
+/*top bar btns*/
+.topPill-30KHOu .item-PXvHYJ {
+    border-radius: 16px;
+}
+
+/*active now*/
+.outer-1AjyKL {
+    border-radius: 32px;
+}
+.inset-3sAvek {
+    border-radius: 30px;
+}
+/*right click pop-out*/
+.popout-38lTFE {
+    border-radius: 22px;
+}
+/*button in pop-out*/
+.memberListItem-31QoHj {
+    border-radius: 16px;
+}
+.wrapper-3Rixsz {
+    border-radius: 16px;
+}
+/*its quiet for now...*/
+.emptyCard-1RJw8n {
+    border-radius: 128px;
+    transition: 0.3s;
+}
+
+/*library*/
+.rowWrapper-2fB6P0 {
+    border-radius: 64px;
+}
+
+/*message buttons*/
+.wrapper-2aW0bm {
+    border-radius: 16px;
+}
+.wrapper-2aW0bm :first-child {
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;  
+}
+.wrapper-2aW0bm :last-child {
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px; 
+}
+
+/*message background*/
+.message-2qnXI6.selected-2P5D_Z, .mouse-mode.full-motion .message-2qnXI6:hover {
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+.mentioned-xhSam7 {
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+    background-color: #7289da18;
+}
+.message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover {
+    background-color: #7289da18;
+}
+.mentioned-xhSam7:before {
+    background-color: #7289da;
+}
+
+/*blurple #7289da*/
+/*add server buttons left side*/
+.circleIconButton-jET_ig {
+    color: var(--text-normal);
+}
+/*when hovering^*/
+.circleIconButton-jET_ig:hover {
+    background-color: #7289da;
+}
+/*when pressed^*/
+.circleIconButton-jET_ig.selected-ugP_am {
+    background-color: #7289da;
+}
+
+/*create server pop-up*/
+.root-1gCeng {
+    border-radius: 32px;
+}
+/*buttons^*/
+.container-UC8Ug1 {
+    border-radius: 32px;
+}
+
+/*explore communities search*/
+.search-1iTphC .searchBox-2_mAlO {
+    border-radius: 32px;
+}
+/*header^*/
+.headerImage-3X1tyY {
+    border-radius: 32px;
+}
+/*servers^*/
+.card-3DjzTQ {
+    border-radius: 32px;
+}
+
+/*server welcome message*/
+.optionContainer-15srkc {
+    border-radius: 32px;
+}
+
+/*server search bar*/
+.searchBar-3dMhjb {
+    border-radius: 16px;
+}
+
+/*inbox*/
+.container-enaOkj {
+    border-radius: 32px;
+}
+.messagesPopoutWrap-1MQ1bW {
+    border-radius: 32px;
+}
+
+/*embeds*/
+.embed-IeVjo6 {
+    border-radius: 32px;
+}
+
+/*reactions*/
+.reaction-1hd86g {
+    border-radius: 16px;
+}
+
+/*bottom name etc*/
+.panels-j1Uci_ {
+    border-radius: 32px 32px 0 0;
+}
+
+/*find or start convo*/
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    border-radius: 32px;
+}
+.platform-win .sidebar-2K8pFh {
+    border-radius: 32px 0 0;
+}
+
+/*bot tag*/
+.px-10SIf7.botTag-2WPJ74 {
+    border-radius: 16px;
+    background-color: var(--background-secondary-alt);
+    color: #7289da;
+}
+.rem-2m9HGf.botTag-2WPJ74 {
+    border-radius: 16px;
+    background-color: var(--background-secondary-alt);
+    color: #7289da;
+}
+
+/*quickswitcher popup*/
+.quickswitcher-3JagVE {
+    border-radius: 32px;
+}
+.input-2VB9rf {
+    border-radius: 32px;
+}
+.input-2VB9rf {
+    border-radius: 32px;
+}
+
+/* SETTINGS */
+
+/*my account*/
+.card-3Qj_Yx {
+    border-radius: 32px;
+}
+
+/*settings buttons*/
+.side-8zPYf6 .item-PXvHYJ {
+    border-radius: 16px;
+}
+
+/*subscriptions page*/
+/*your subscription banner*/
+.banner-3Kac2g {
+    border-radius: 64px;
+}
+.bannerBackgroundImage-1DMjWi {
+    border-radius: 64px;
+}
+/*background boxes*/
+.detailsBlock-FoDTGA {
+    border-radius: 32px;
+}
+/*pay for it with*/
+.selectClosed-2un0PJ {
+    border-radius: 32px;
+}
+.selectOpen-hQuR6b {
+    border-radius: 32px 32px 0 0;
+}
+.lookFilled-1h1y05.popout-2sKjHu {
+    border-radius: 0 0 32px 32px;
+}
+/*nitro banner*/
+.hero-EvfTTA {
+    border-radius: 64px;
+}
+/*features*/
+.feature-2w65J5 {
+    border-radius: 32px;
+}
+.banner-WELp4M {
+    border-radius: 32px;
+}
+
+/*gift inventory*/
+.card-7JP0BX {
+    border-radius: 64px;
+}
+
+/*server boost*/
+.guild-Hq0WWA {
+    border-radius: 32px;
+}
+.cardWrapper-2Min21 {
+    border-radius: 32px;
+}
+
+/*billing*/
+.paymentPane-3bwJ6A {
+    border-radius: 32px;
+}
+/*page buttons^*/
+.pageButtonNext-V2kUq0{
+    border-radius: 0 32px 32px 0;
+}
+.pageButtonPrev-1Y-47D {
+    border-radius: 32px 0 0 32px;
+}
+
+/*connections*/
+.connection-1fbD7X {
+    border-radius: 32px;
+}
+.connectionHeader-2MDqhu {
+    border-radius: 32px 32px 0 0;
+}
+.integration-3kMeY4 {
+    border-radius: 32px;
+}
+.connectionDelete-2Odoln {
+    border-radius: 16px;
+}
+.inner-2Y6JuD {
+    border-radius: 64px;
+}
+
+/*overlay*/
+/*record keybind input*/
+.container-1nZlH6 {
+    border-radius: 32px;
+}
+
+/*voice settings*/
+/*input and output, etc..*/
+.css-1a8reka-control {
+    border-radius: 32px;
+}
+.css-1yegjoj-control {
+    border-radius: 32px;
+}
+.css-2yldzf-control {
+    border-radius: 32px 32px 0 0 ;
+}
+.css-n57xjs-menu {
+    border-radius: 0 0 32px 32px;
+}
+
+/*grabber*/
+.grabber-3mFHz2 {
+    border-radius: 16px;
+}
+
+/*now playing*/
+.notDetected-33MY4s, .nowPlaying-284llR {
+    border-radius: 64px;
+}
+.card-FDVird:before {
+    border-radius: 64px;
+}
+.theme-dark .game-1ipmAa {
+    box-shadow: none;
+}
