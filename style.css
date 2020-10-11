@@ -230,7 +230,7 @@
 
 /*bottom name etc*/
 .panels-j1Uci_ {
-    border-radius: 32px 32px 0 0;
+    border-radius: 0 0 0 0;
 }
 
 /*find or start convo*/
@@ -458,5 +458,21 @@
 
 /*server invite*/
 .wrapper-35wsBm {
+    border-radius: 32px;
+}
+
+
+/*NEW 11.10.2020*/
+/*Server permissions*/
+.item-3T2z1R:first-child {
+    border-radius: 32px 0 0 32px;
+    margin-left: 5px;
+}
+.item-3T2z1R:last-child {
+    border-radius: 0 32px 32px 0;
+}
+
+/*Library search bar*/
+.container-cMG81i {
     border-radius: 32px;
 }
