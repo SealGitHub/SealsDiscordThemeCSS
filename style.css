@@ -717,3 +717,118 @@
 .iconActiveMedium-1UaEIR {
   border-radius: 32px;
 }
+
+
+.container-S9SaVf {
+  border-radius: 32px;
+}
+
+/*dms and shit*/
+.sidebar-2K8pFh {
+  padding: 10px 5px 10px;
+  background-color: var(--background-tertiary);
+}
+.privateChannels-1nO12o {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.panels-j1Uci_ {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.scroller-1Bvpku {
+  background-color:var(--background-tertiary);
+}
+
+/*friends and shit*/
+.container-1D34oG {
+  border-radius: 10px;
+  padding: 10px 10px 10px 5px;
+  background-color: var(--background-tertiary);
+}
+.theme-dark .container-1D34oG {
+  background-color: var(--background-tertiary);
+}
+.container-1r6BKw.themed-ANHk51 {
+  background-color: var(--background-primary);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.tabBody-3YRQ8W {
+  background-color: var(--background-primary);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+/*servers and shit*/
+.guilds-1SWlCJ {
+  padding: 10px 5px 10px 10px;
+  background-color: var(--background-tertiary);
+}
+.scroller-1Bvpku {
+  background-color: var(--background-secondary-alt);
+  border-radius: 10px;
+}
+.tutorialContainer-2sGCg9 {
+  padding-top: 5px;
+}
+
+/*chat and shit*/
+.chat-3bRxxu {
+  padding: 10px 10px 10px 5px;
+  background-color: var(--background-tertiary);
+}
+.content-yTz4x3 {
+  background-color: var(--background-primary);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+/*search bar above dms and shit*/
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    border-radius: 10px;
+}
+
+/*server name bar thing*/
+.container-3w7J-x {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+/*server members and shit*/
+.members-1998pB, .members-1998pB>div {
+  border-bottom-right-radius: 10px;
+}
+
+/*stages and shit*/
+.container-1a3EgQ {
+  padding: 10px 10px 10px 5px;
+}
+.pageContent-1xgXch {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+/*Library and shit*/
+.container-3Mxszk {
+  padding: 10px 10px 10px 5px;
+}
+.container-19hC9u {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.scroller-2XE8rp {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+/*Nitro page and shit*/
+.applicationStore-1pNvnv {
+  padding: 10px 10px 10px 5px;
+  background-color: var(--background-tertiary);
+}
+.scroller-9moviB {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
