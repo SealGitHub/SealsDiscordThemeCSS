@@ -843,3 +843,14 @@
 .scroller-1d5FgU {
   background-color: var(--background-tertiary);
 }
+
+
+/*threads*/
+.threadSidebar-1o3BTy {
+    margin-top: 10PX;
+    margin-right: 10PX;
+    margin-bottom: 10PX;
+    margin-left: 0px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
