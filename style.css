@@ -857,3 +857,14 @@
 .container-3hZ-gs {
     border-radius: 10px;
 }
+
+
+/*general fixes*/
+.animatedContainer-1NSq4T {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.header-2V-4Sw {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
