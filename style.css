@@ -868,3 +868,35 @@
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+
+
+
+/*added 11.10.21*/
+/*New summer update notice in nitro tab*/
+.notice-2OK8bw {
+    border-radius: 32px;
+}
+.mainImage-qiGxON {
+    border-radius: 22px;
+}
+
+
+/*images in "also includes" in nitro tab*/
+.featureImage-2L9kA0  {
+    border-radius: 20px;
+}
+
+
+/*hovering over ppl in server vc*/
+.content-1Wq3SX {
+    border-radius: 32px;
+}
+
+
+/*file*/
+.attachment-33OFj0 {
+    border-radius: 32px;
+}
+.icon-1kp3fr {
+    border-radius: 10px;
+}
